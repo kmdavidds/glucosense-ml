@@ -1,0 +1,9 @@
+examples/*
+!examples/.gitkeep
+models/*
+!models/.gitkeep
+runs/
+test/
+train/
+valid/
+yolov8n.pt
