@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 29
+names: ['ayam bakar', 'ayam goreng', 'bakso', 'bakwan', 'batagor', 'bihun', 'capcay', 'gado-gado', 'ikan goreng', 'kerupuk', 'martabak telur', 'mie', 'nasi goreng', 'nasi putih', 'nugget', 'opor ayam', 'pempek', 'rendang', 'roti', 'sate', 'sosis', 'soto', 'steak', 'tahu', 'telur', 'tempe', 'terong balado', 'tumis kangkung', 'udang']
+
+roboflow:
+  workspace: universitas-negeri-semarang-qnc8g
+  project: capstone-bangkit-academy-2023
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/universitas-negeri-semarang-qnc8g/capstone-bangkit-academy-2023/dataset/1
